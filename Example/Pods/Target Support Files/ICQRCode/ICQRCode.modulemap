@@ -1,6 +1,0 @@
-framework module ICQRCode {
-  umbrella header "ICQRCode-umbrella.h"
-
-  export *
-  module * { export * }
-}

@@ -1,5 +1,5 @@
 PODS:
-  - ICQRCode (0.1.0)
+  - ICQRCode (0.9.0)
 
 DEPENDENCIES:
   - ICQRCode (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ICQRCode: 9c679dde4370bcaa3a625fc3a7b58a2d0982ef89
+  ICQRCode: d5394927ee730611f5fa4eb4e6e2755d44cf3227
 
 PODFILE CHECKSUM: a50b6038de7949309ae5732cb8a8d2e2464ff693
 
