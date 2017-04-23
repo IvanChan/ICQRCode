@@ -1,0 +1,27 @@
+{
+  "name": "ICQRCode",
+  "version": "0.1.0",
+  "summary": "A short description of ICQRCode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/IvanChan/ICQRCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "_ivanC": "_ivanC"
+  },
+  "source": {
+    "git": "https://github.com/IvanChan/ICQRCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ICQRCode/Classes/**/*",
+  "public_header_files": "ICQRCode/Classes/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "MobileCoreServices"
+  ]
+}
